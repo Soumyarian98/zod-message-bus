@@ -1,0 +1,6 @@
+src
+.changeset
+.github
+pnpm-lock.yaml
+vite.config.ts
+tsconfig.json
